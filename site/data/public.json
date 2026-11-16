@@ -1,12 +1,12 @@
 {
   "schema": "gard-ledger-disclosure/v2",
   "release": {
-    "id": "20261116-v2",
-    "generatedAt": "2026-11-16T13:56:57.848Z",
+    "id": "20261117-v2",
+    "generatedAt": "2026-11-16T23:26:33.371Z",
     "source": "GARD OWNER approved excerpt",
     "audience": "public",
     "audienceLabel": "전체 공개",
-    "entity": "주식회사 GARD",
+    "entity": "안규환 개인",
     "years": [
       "2026"
     ],
@@ -39,18 +39,27 @@
       "status": "초안",
       "summary": "",
       "nextAction": ""
+    },
+    {
+      "id": "M-mwjvnzjk-2ph4hb",
+      "date": "2026-11-17",
+      "title": "구글 notebooklm 구독/구글 ai studio/ 구글 Drive",
+      "type": "기타",
+      "status": "실행",
+      "summary": "",
+      "nextAction": ""
     }
   ],
   "entries": [
     {
-      "id": "J-mwjb4nxk-0hdbz3",
-      "date": "2026-11-11",
-      "meetingId": "M-mwjb4jk1-dsn7jo",
-      "description": "권성택 식사·커피 (S7-R29)",
-      "debit": "5110",
-      "credit": "2120",
-      "amount": 12500,
-      "entity": "주식회사 GARD",
+      "id": "J-mwjvqt8u-le87sk",
+      "date": "2026-11-17",
+      "meetingId": "M-mwjvnzjk-2ph4hb",
+      "description": "google 구독료",
+      "debit": "5210",
+      "credit": "2130",
+      "amount": 29000,
+      "entity": "안규환 개인",
       "status": "오너 증빙확인 분개"
     }
   ],
@@ -59,12 +68,12 @@
       "year": "2026",
       "status": "오너 선택공개 부분장부",
       "revenue": 0,
-      "expense": 12500,
-      "netIncome": -12500,
+      "expense": 29000,
+      "netIncome": -29000,
       "assets": 0,
-      "liabilities": 12500,
+      "liabilities": 29000,
       "contributed": 0,
-      "cumulativeProfit": -12500,
+      "cumulativeProfit": -29000,
       "openingCash": 0,
       "closingCash": 0,
       "flows": {
@@ -77,6 +86,6 @@
   ],
   "integrity": {
     "algorithm": "SHA-256",
-    "sha256": "fd508533414d7403c3666fc51a8181a3e39d504b4308c1fd784c5af7203f85b3"
+    "sha256": "7faed2cb7805766b120c3e3bcab27057f2afbdac05b56c2be6d9c91ce49c5157"
   }
 }
