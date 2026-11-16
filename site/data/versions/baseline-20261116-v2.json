@@ -1,0 +1,42 @@
+{
+  "schema": "gard-ledger-disclosure/v2",
+  "release": {
+    "id": "baseline-20261116-v2",
+    "generatedAt": "2026-11-16T00:00:00.000Z",
+    "source": "GARD OWNER approved excerpt",
+    "audience": "public",
+    "audienceLabel": "전체 공개",
+    "entity": "주식회사 GARD",
+    "years": [
+      "2026"
+    ],
+    "disclaimer": "오너가 선택 공개한 장부 일부에 한정. 미공개 항목은 0원이 아니며 비감사·부분원장·비결산 자료입니다."
+  },
+  "meetings": [],
+  "entries": [],
+  "statements": [
+    {
+      "year": "2026",
+      "status": "오너 선택공개 부분장부",
+      "revenue": 0,
+      "expense": 0,
+      "netIncome": 0,
+      "assets": 0,
+      "liabilities": 0,
+      "contributed": 0,
+      "cumulativeProfit": 0,
+      "openingCash": 0,
+      "closingCash": 0,
+      "flows": {
+        "operating": 0,
+        "investing": 0,
+        "financing": 0
+      },
+      "balanceDifference": 0
+    }
+  ],
+  "integrity": {
+    "algorithm": "SHA-256",
+    "sha256": "79217f43fdfefb47e733eeadfb2dad444c886a1b9d60e78949722173d61f87e1"
+  }
+}

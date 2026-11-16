@@ -1,0 +1,12 @@
+{
+  "schema": "gard-release-history/v2",
+  "releases": [
+    {
+      "id": "baseline-20261116-v2",
+      "date": "2026-11-16T00:00:00.000Z",
+      "hash": "79217f43fdfefb47e733eeadfb2dad444c886a1b9d60e78949722173d61f87e1",
+      "meetings": 0,
+      "entries": 0
+    }
+  ]
+}
