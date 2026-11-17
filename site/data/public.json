@@ -2,7 +2,7 @@
   "schema": "gard-ledger-disclosure/v2",
   "release": {
     "id": "20261117-v2",
-    "generatedAt": "2026-11-16T23:32:48.472Z",
+    "generatedAt": "2026-11-17T06:50:21.791Z",
     "source": "GARD OWNER approved excerpt",
     "audience": "public",
     "audienceLabel": "전체 공개",
@@ -48,6 +48,15 @@
       "status": "실행",
       "summary": "",
       "nextAction": ""
+    },
+    {
+      "id": "M-GARD-20261117-KWON-WEEKLY",
+      "date": "2026-11-17",
+      "title": "권성택 원장 공동창업 정기미팅 — GARD 오너·구독자 분리 웹앱 실체 공유",
+      "type": "공동창업 정기미팅",
+      "status": "실행",
+      "summary": "",
+      "nextAction": ""
     }
   ],
   "entries": [
@@ -72,6 +81,17 @@
       "amount": 16200,
       "entity": "주식회사 GARD",
       "status": "오너 증빙확인 분개"
+    },
+    {
+      "id": "J-mwkbyjfu-jl6p8q",
+      "date": "2026-11-17",
+      "meetingId": "M-GARD-20261117-KWON-WEEKLY",
+      "description": "정기 미팅 공차 음료 및 다과",
+      "debit": "5110",
+      "credit": "2120",
+      "amount": 16000,
+      "entity": "주식회사 GARD",
+      "status": "오너 증빙확인 분개"
     }
   ],
   "statements": [
@@ -79,12 +99,12 @@
       "year": "2026",
       "status": "오너 선택공개 부분장부",
       "revenue": 0,
-      "expense": 28700,
-      "netIncome": -28700,
+      "expense": 44700,
+      "netIncome": -44700,
       "assets": 0,
-      "liabilities": 28700,
+      "liabilities": 44700,
       "contributed": 0,
-      "cumulativeProfit": -28700,
+      "cumulativeProfit": -44700,
       "openingCash": 0,
       "closingCash": 0,
       "flows": {
@@ -97,6 +117,6 @@
   ],
   "integrity": {
     "algorithm": "SHA-256",
-    "sha256": "b72299a29c5b5ad5b2c76ed523f3477a27bd91af90ce545a6480ebbee5fd05ec"
+    "sha256": "74ee0c3762b18b8280dbec11a9e127bcfe1f6bfe1933ec28735509011d62813a"
   }
 }
